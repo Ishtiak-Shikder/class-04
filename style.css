@@ -1,0 +1,117 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+
+}
+.main-container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.left-header-container{
+    width: 20%;
+    padding: 30px;
+    background-color: #0e6f74;
+    border-bottom: 1px solid #fff;
+
+
+}
+
+
+.pro-img{
+    width: 250px;
+    border-radius: 250px;
+    padding: px ;
+}
+
+.text1{
+    color: #fffffd;
+    font-size: 28px;
+    border-bottom: 1px solid #fff;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+
+.pro-text{
+    background-color: #629fa2;
+    border-radius: 2px;
+    padding: 15px;
+}
+.pro-text h3{
+    margin-top: 10px;
+    border-bottom: 1px solid #fff;
+    color: #e9ab00;
+    font-size: 22px;
+    padding-bottom: 5px;
+}
+.p-text{
+    color: #000000;
+}
+.p-text i{
+    padding-right: 10px;
+    color: rgb(2, 37, 56);
+}
+
+.pro-text02{
+    margin-top: 10px;
+    padding: 4px;
+    background-color: #629fa2;
+
+
+}
+
+.pro-text02 li{
+    padding-bottom: 5px;
+}
+.pro-text02 h3{
+    border-bottom: 1px solid #fff;
+    color: #e9ab00;
+    font-size: 22px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+
+
+}
+
+.right-header-container{
+    width: 50%;
+    background-color: rgb(35, 93, 93);
+
+    padding-left: 100px;
+}
+
+.title-01{
+    margin-top: 30px;
+    background-color: rgb(35, 93, 93);
+    padding-top: 20px;
+    width: 90%;
+}
+
+.title-01 p{
+    text-align: ;
+    color: #f5f3f3;
+}
+
+.text-02{
+    width: 90%;
+    margin-top: 30px;
+}
+.text-02 li{
+    padding-bottom: 8px;
+}
+.edu-h2{
+    color: #e9ab00;
+    border-bottom: 1px solid #fff;
+    text-align: ;
+    padding-bottom: 5px;
+    font-size: 30px;
+}
+.skill-03 li {
+    padding-bottom: 7px;
+
+}
